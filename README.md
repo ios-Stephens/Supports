@@ -1,4 +1,3 @@
-# Supports
 Thank you for using our photo application 
 -------
 
